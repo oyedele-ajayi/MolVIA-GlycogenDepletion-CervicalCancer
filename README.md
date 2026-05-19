@@ -3,14 +3,12 @@
 This repository contains the complete R analysis pipeline for the manuscript:
 
 **Title:** "Transcriptomic Evidence for Glycogen Depletion as the Molecular Basis of Acetowhitening in Cervical Dysplasia: The Glycogen Depletion Index"  
-**Authors:** Oyedele Ajayi, Efosa Odigie  
-**Journal:** [Journal Name - to be inserted upon acceptance]  
+**Authors:** Oyedele Ajayi, Efosa Odigie, Samson Adesite, Uchechukwu Eziagu, Theophilus Erameh, Ikwo Kudamnya, Anietie Archibong   
+**Journal:** [Journal Name - to be inserted upon acceptance]------ Pending
 **DOI:** [Manuscript DOI - to be inserted upon acceptance]  
 **Status:** Under Review
 
----
-
-## Overview
+Overview
 
 This study characterizes glycogen metabolic reprogramming across the spectrum of cervical intraepithelial neoplasia (CIN) and invasive carcinoma. We introduce the Glycogen Depletion Index (GDI) as a novel composite molecular biomarker derived from transcriptomic data.
 
@@ -21,7 +19,7 @@ The analysis demonstrates that:
 
 This repository provides all the necessary code to reproduce these findings from publicly available data.
 
-## Datasets
+**Datasets**
 
 All primary data are publicly available from the NCBI Gene Expression Omnibus (GEO). **No raw data files are stored in this repository.** The analysis scripts download all required data programmatically.
 
